@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2554-minimum-total-distance-traveled](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
