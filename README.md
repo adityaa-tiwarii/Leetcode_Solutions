@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3394-minimum-array-end](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
 | ------- |
