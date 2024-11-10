@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
