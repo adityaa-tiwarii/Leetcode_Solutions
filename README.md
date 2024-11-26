@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
