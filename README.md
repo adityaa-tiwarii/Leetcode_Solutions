@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2089-maximum-matrix-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -151,10 +154,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
