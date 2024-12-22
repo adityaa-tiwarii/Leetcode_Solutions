@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
