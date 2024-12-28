@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
