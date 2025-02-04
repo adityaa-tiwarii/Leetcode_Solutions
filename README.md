@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2145-grid-game) |
