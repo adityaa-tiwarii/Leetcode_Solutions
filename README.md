@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Tree
 |  |
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
