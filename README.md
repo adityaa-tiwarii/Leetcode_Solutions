@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3447-clear-digits) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
