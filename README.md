@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0812-rotate-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 ## Trie
 |  |
 | ------- |
