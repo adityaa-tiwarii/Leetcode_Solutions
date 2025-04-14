@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1656-count-good-triplets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1755-defuse-the-bomb) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
