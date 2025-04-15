@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Tree
@@ -444,10 +447,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
@@ -505,4 +510,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
