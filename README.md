@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1755-defuse-the-bomb) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
