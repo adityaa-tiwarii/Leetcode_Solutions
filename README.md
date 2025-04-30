@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
