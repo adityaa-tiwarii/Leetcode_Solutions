@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0812-rotate-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
