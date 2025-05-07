@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -446,12 +449,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [3189-find-champion-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Depth-First Search
 |  |
 | ------- |
