@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2562-count-ways-to-build-good-strings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2998-count-symmetric-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
 | ------- |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
