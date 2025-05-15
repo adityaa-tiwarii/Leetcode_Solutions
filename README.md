@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
