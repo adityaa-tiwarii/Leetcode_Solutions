@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
