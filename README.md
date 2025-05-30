@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2201-valid-arrangement-of-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3189-find-champion-ii) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
