@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0945-snakes-and-ladders](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
+| [0945-snakes-and-ladders](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
