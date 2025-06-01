@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3201-distribute-candies-among-children-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
 | ------- |
