@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0135-candy) |
 | [0780-max-chunks-to-make-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
