@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
