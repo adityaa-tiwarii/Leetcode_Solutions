@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
