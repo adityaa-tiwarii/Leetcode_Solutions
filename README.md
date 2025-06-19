@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
