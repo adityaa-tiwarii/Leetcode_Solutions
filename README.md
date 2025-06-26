@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2562-count-ways-to-build-good-strings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2580-circular-sentence) |
@@ -689,4 +692,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
