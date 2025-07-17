@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
