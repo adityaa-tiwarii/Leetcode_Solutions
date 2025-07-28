@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1656-count-good-triplets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
