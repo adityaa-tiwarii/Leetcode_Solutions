@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3647-zero-array-transformation-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3394-minimum-array-end) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Counting
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
