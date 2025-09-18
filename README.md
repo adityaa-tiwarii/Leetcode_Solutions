@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2280-count-good-triplets-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 ## Combinatorics
 |  |
 | ------- |
