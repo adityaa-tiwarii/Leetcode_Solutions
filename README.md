@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Combinatorics
 |  |
 | ------- |
