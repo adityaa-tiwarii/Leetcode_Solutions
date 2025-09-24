@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0812-rotate-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0368-largest-divisible-subset](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
