@@ -1,21 +1,12 @@
-class T {
-  public int i;
-  public int j;
-  public int h; // heightMap[i][j] or the height after filling water
-  public T(int i, int j, int h) {
-    this.i = i;
-    this.j = j;
-    this.h = h;
-  }
-}
-
 class Solution {
   public int trapRainWater(int[][] heightMap) {
-    final int[][] dirs = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    // h := heightMap[i][j] or the height after filling water
+    record T(int i, int j, int h) {}
+    final int[][] DIRS = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
     final int m = heightMap.length;
     final int n = heightMap[0].length;
     int ans = 0;
-    Queue<T> minHeap = new PriorityQueue<>((a, b) -> Integer.compare(a.h, b.h));
+    Queue<T> minHeap = new PriorityQueue<>(Comparator.comparingInt(T::h));
     boolean[][] seen = new boolean[m][n];
 
     for (int i = 0; i < m; ++i) {
@@ -36,7 +27,7 @@ class Solution {
       final int i = minHeap.peek().i;
       final int j = minHeap.peek().j;
       final int h = minHeap.poll().h;
-      for (int[] dir : dirs) {
+      for (int[] dir : DIRS) {
         final int x = i + dir[0];
         final int y = j + dir[1];
         if (x < 0 || x == m || y < 0 || y == n)
