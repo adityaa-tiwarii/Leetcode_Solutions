@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Binary Search
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3639-zero-array-transformation-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
 |  |
 | ------- |
