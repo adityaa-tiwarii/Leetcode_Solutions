@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3427-special-array-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3827-implement-router) |
 ## Dynamic Programming
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3427-special-array-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
