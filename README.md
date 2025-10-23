@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
@@ -491,12 +492,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
