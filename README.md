@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
