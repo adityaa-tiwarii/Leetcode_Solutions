@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3394-minimum-array-end) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Counting
 |  |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
