@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -733,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
@@ -799,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
