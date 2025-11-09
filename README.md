@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2174-next-greater-numerically-balanced-number](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2169-simple-bank-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2479-meeting-rooms-iii) |
