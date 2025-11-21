@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1813-maximum-erasure-value](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2107-find-unique-binary-string) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2249-count-the-hidden-sequences) |
