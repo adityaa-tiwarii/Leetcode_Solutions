@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1940-maximum-xor-for-each-query) |
