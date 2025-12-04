@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
