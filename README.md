@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
+| [3531-count-covered-buildings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3531-count-covered-buildings](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
