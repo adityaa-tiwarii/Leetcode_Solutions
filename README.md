@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
