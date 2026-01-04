@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
