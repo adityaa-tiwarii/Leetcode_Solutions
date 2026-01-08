@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
