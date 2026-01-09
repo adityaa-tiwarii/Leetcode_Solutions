@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0756-pyramid-transition-matrix](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0952-word-subsets](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adityaa-tiwarii/Leetcode_Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
